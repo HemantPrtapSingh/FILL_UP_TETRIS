@@ -1,5 +1,24 @@
-# C++ FILL UP Tetris Game using raylib
+# FILL_UP_TETRIS
+FILL UP TETRIS GAME USING C++ AND RAYLIB
+## FILL UP TETRIS
+FILL UP TETRIS GAME USING C++ AND RAYLIB 
+The objective of Tetris is to manipulate falling blocks, called "tetrominoes," to create horizontal lines without gaps. When a line is completed, it disappears, and any blocks above it fall down. The game ends when the stack of tetrominoes reaches the top of the playing field.
 
-🕹️🐍🎮 This GitHub repository is home to the full source code for a Tetris game built with the C++ programming language integrating with the raylib library. 💻🎨🎧 The game uses various raylib functions for graphics, input handling, and audio and can be played on Windows, macOS, and Linux computers. 🔍📖 The code is well-structured and easy to read
+## BUILD INSTRUCTION 
+
+These are the instructions for Windows.
+
+Open a Windows Terminal to clone and build the engine:
+
+  1. `git clone https://github.com/HemantPrtapSingh/FILL_UP_TETRIS`
+  2. `cd FILL_UP_TETRIS/`
+  3. Open the Visual Studio workspace `main.code-workspace` and build everything.
+
+Note: 
+RAYLIB Library is required to build the project
+
+## SCREENSHOT
+![Preview](https://github.com/user-attachments/assets/01c57b61-d04e-460e-9378-3fa5ddf2ed68)
+
 
 
